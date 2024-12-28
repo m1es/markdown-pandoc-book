@@ -1,0 +1,7 @@
+\newpage
+\vspace*{\fill}
+\begin{center}
+Lorem ipsum dolor sit amet
+\end{center}
+\vspace*{\fill}
+\thispagestyle{empty}
